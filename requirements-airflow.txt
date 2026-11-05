@@ -1,0 +1,2 @@
+# Installed into .venv-airflow with Airflow's official constraint file (see scripts/bootstrap.sh).
+apache-airflow==3.3.2
